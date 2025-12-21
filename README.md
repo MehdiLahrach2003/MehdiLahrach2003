@@ -1,4 +1,4 @@
-## Selected Projects
+**Selected Projects** : 
 
 **Quant Journey**  : Quantitative finance framework for strategy backtesting, risk management, portfolio optimization and derivatives pricing. Focus on reproducibility, risk metrics (VaR, ES), walkforward analysis and multi-asset allocation.
 
