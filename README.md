@@ -12,7 +12,8 @@ I build **research-grade, reproducible trading systems** focused on **decision-m
 ### Selected Projects
 
 **Probing and Adverse Selection in Market Making**  
-Inventory-based market making under uncertain order flow, with intensity calibration, probing strategies, and event-driven backtesting in a realistic microstructure setting.
+Inventory-based market making under uncertain order flow, with intensity calibration, probing strategies, and event-driven backtesting in a realistic microstructure setting.  
+*Focus on information–PnL trade-offs and failure modes of optimal quoting policies.*
 
 **Systematic Trading and Risk Backtesting Framework**  
 Modular framework for multi-asset strategy research, portfolio construction, walk-forward evaluation, and risk analysis (VaR, ES, stress tests).
