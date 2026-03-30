@@ -9,3 +9,4 @@ I build **research-grade, reproducible trading systems** focused on **decision-m
 
 **Reports**:
 - [Report_Of_Execution_Under_Adverse_Selection.pdf](https://github.com/user-attachments/files/26318782/Report_Of_Execution_Under_Adverse_Selection.pdf)
+- [Report_Of_Probing_Adverse_Selection_In_Market_Making.pdf](https://github.com/user-attachments/files/26339179/Report_Of_Probing_Adverse_Selection_In_Market_Making.pdf)
